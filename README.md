@@ -82,6 +82,25 @@ EV_Price_Prediction_Project/
 
 ---
 
+## ✅ Week 2 Completed — Model Building & Evaluation
+
+**Models Trained:**
+- Linear Regression
+- Random Forest Regressor
+- Gradient Boosting / XGBoost (optional)
+
+**Evaluation Metrics Used:**
+- **MAE** (Mean Absolute Error)
+- **RMSE** (Root Mean Squared Error)
+- **R² Score** (Model Accuracy)
+
+**Best Model:** Random Forest (chosen based on highest R² Score)
+Dataset is now fully model-ready + model is saved for application use.
+
+---
+
+## 🚀 Next Week (Week 3 Plan) - AI CHATBOT
+
 ## ✨ Author
 
 **Malavika Das**  
